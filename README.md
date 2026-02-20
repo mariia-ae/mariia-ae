@@ -1,14 +1,13 @@
 ## Hallo, ich bin Mariia 👋
 
 Ich befinde mich in der Umschulung zur Fachinformatikerin Anwendungsentwicklung 
-ind baue mir Schritt für Schritt eine solide Grundlagen in der Softwareentwicklung auf.
+und entwickle aktiv Webanwendunen mit Python, Django, HTML, CSS und JavaScript.
 
 ## Aktuelle Schwerpunkte 
-- Python (Grundlagenkurs abgeschlossen,ptaktische Übungen)
-- HTML & CSS (vollständig umgesetzte Frontend-Webseite)
-- JavaScript (Grundlagen)
+- Entwicklung von Webanwendungen mit Django, Node
+- Backend - und Frontend - Programmierung
+- Arbeiten mit Datenbaken
+- Deployment von Projekten
 
 ## Ziel
-Praxis in der Anwendungsentwicklung sammeln,
-meine Kenntnisse weiter vertiefen 
-und sauberen, verständlichen Code schreiben.
+Praktische Erfahrung als Anwendungsentwicklerin sammeln und mich beruflich in der Softwareentwicklung.
